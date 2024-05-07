@@ -6,4 +6,4 @@
 
 # Cuaderno
 
-[Series de Fourier Ejemplos](Intro_señales_series_fourier.ipynb)
+[Series de Fourier y Filtros: Ejemplos](Intro_señales_series_fourier.ipynb)
