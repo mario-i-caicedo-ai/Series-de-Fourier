@@ -6,4 +6,4 @@
 
 # Cuaderno
 
-[Series de Fourier Ejemplos]()
+[Series de Fourier Ejemplos](Intro_señales_series_fourier.ipynb)
